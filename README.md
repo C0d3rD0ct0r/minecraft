@@ -1,2 +1,2 @@
-# source2
+# minecraft
 source mod 
