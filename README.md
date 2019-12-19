@@ -16,3 +16,6 @@ source mod
 1. A
 1. Numbered
 1. List
+
+Markdown guid
+https://www.markdownguide.org/basic-syntax/
