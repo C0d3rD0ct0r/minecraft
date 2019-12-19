@@ -17,5 +17,5 @@ source mod
 1. Numbered
 1. List
 
-Markdown guid
+Markdown guide
 https://www.markdownguide.org/basic-syntax/
