@@ -1,21 +1,10 @@
 # minecraft
-source mod 
+source mod
 
-## This is a subheading
-
-### This is a sub sub heading
-
-- This
-- Is
-- A
-- List
-
-
-1. This
-1. Is
-1. A
-1. Numbered
-1. List
-
-Markdown guide
-https://www.markdownguide.org/basic-syntax/
+###### !!! This is important!
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
